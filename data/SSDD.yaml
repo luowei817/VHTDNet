@@ -1,0 +1,10 @@
+# dataset path
+train: '../datasets/SSDD/images/train'
+val: '../datasets/SSDD/images/val'
+test: '../datasets/SSDD/images/test'
+
+# number of classes
+nc: 1
+
+# class names
+names: ['ship']
